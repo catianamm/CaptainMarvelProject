@@ -5,10 +5,11 @@
 .top {
     background-color: #ff863f;
     display: flex;
-justify-content: space-between;
-align-items: center;
-padding: 10px;
-
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+    height: 100px;
 }
 
 
@@ -23,3 +24,4 @@ p {
     display: flex;
 
 }
+
