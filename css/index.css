@@ -16,11 +16,13 @@ padding: 10px;
     display: flex;
     flex-direction: row;
 width: 500px;
+padding: 30px;
 
 }
 
 p {
     display: flex;
+    padding: 10px;
 }
 
 
