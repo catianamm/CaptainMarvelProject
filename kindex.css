@@ -1,16 +1,20 @@
 body{
     padding: 40px ;
+    margin: 30px ;
 }
 
-.image{
+.center{
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    border: 3px solid rgb(228, 107, 37);
     padding: 10px;
     color: white;
 }
 
-.Footer{
+.footer{
     background-color: tomato;
+    position: fixed;
+    width: 100%;
     padding: 20px;
+    text-align: center;
 }
