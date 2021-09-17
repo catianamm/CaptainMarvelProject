@@ -9,12 +9,15 @@ body{
     border: 3px solid rgb(228, 107, 37);
     padding: 10px;
     color: white;
+    font-size: tahoma
+    ;
 }
 
 .footer{
     background-color: tomato;
-    position: fixed;
     width: 100%;
     padding: 20px;
+    height: auto;
     text-align: center;
 }
+
