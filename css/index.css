@@ -12,6 +12,12 @@
     height: 100px;
 }
 
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+}
 
 .grid {
     display: flex;
