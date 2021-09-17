@@ -11,8 +11,12 @@ padding: 10px;
 
 }
 
+
 .grid {
     display: flex;
+    flex-direction: row;
+width: 500px;
+
 }
 
 p {
